@@ -1,0 +1,16 @@
+C:\DevelopWork\MUSHIJU\MUSHIJU_Develop\src-server\Mmo\Photon.MmoDemo.Server\bin\RPGServer.dll
+C:\DevelopWork\MUSHIJU\MUSHIJU_Develop\src-server\Mmo\Photon.MmoDemo.Server\bin\RPGServer.pdb
+C:\DevelopWork\MUSHIJU\MUSHIJU_Develop\src-server\Mmo\Photon.MmoDemo.Server\bin\ExitGames.Logging.Log4Net.dll
+C:\DevelopWork\MUSHIJU\MUSHIJU_Develop\src-server\Mmo\Photon.MmoDemo.Server\bin\ExitGamesLibs.dll
+C:\DevelopWork\MUSHIJU\MUSHIJU_Develop\src-server\Mmo\Photon.MmoDemo.Server\bin\log4net.dll
+C:\DevelopWork\MUSHIJU\MUSHIJU_Develop\src-server\Mmo\Photon.MmoDemo.Server\bin\Photon.SocketServer.dll
+C:\DevelopWork\MUSHIJU\MUSHIJU_Develop\src-server\Mmo\Photon.MmoDemo.Server\bin\PhotonHostRuntimeInterfaces.dll
+C:\DevelopWork\MUSHIJU\MUSHIJU_Develop\src-server\Mmo\Photon.MmoDemo.Server\bin\ExitGames.Logging.Log4Net.pdb
+C:\DevelopWork\MUSHIJU\MUSHIJU_Develop\src-server\Mmo\Photon.MmoDemo.Server\bin\ExitGames.Logging.Log4Net.xml
+C:\DevelopWork\MUSHIJU\MUSHIJU_Develop\src-server\Mmo\Photon.MmoDemo.Server\bin\ExitGamesLibs.pdb
+C:\DevelopWork\MUSHIJU\MUSHIJU_Develop\src-server\Mmo\Photon.MmoDemo.Server\bin\ExitGamesLibs.xml
+C:\DevelopWork\MUSHIJU\MUSHIJU_Develop\src-server\Mmo\Photon.MmoDemo.Server\bin\Photon.SocketServer.pdb
+C:\DevelopWork\MUSHIJU\MUSHIJU_Develop\src-server\Mmo\Photon.MmoDemo.Server\bin\Photon.SocketServer.xml
+C:\DevelopWork\MUSHIJU\MUSHIJU_Develop\src-server\Mmo\Photon.MmoDemo.Server\obj\Debug\Photon.MmoDemo.Server.csprojResolveAssemblyReference.cache
+C:\DevelopWork\MUSHIJU\MUSHIJU_Develop\src-server\Mmo\Photon.MmoDemo.Server\obj\Debug\RPGServer.dll
+C:\DevelopWork\MUSHIJU\MUSHIJU_Develop\src-server\Mmo\Photon.MmoDemo.Server\obj\Debug\RPGServer.pdb

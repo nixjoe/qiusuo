@@ -1,0 +1,43 @@
+19012: 16:33:21.207 - ---
+19012: 16:33:21.207 - Service: "Photon Socket Server" starting
+19012: 16:33:21.207 - Config File: C:\RPG\deploy\bin_Win64\RPGDemo.config
+19012: 16:33:21.208 - Will produce at most: 10 crash dumps
+19012: 16:33:21.208 - Action: run as exe
+19012: 16:33:21.208 - 
+19012: 16:33:21.208 - ERROR: ***************************************************************
+19012: 16:33:21.208 - ERROR: You can NOT run this instance, "RPGInstance", as an exe as it is already installed as a service.
+19012: 16:33:21.208 - ERROR: ***************************************************************
+19012: 16:33:21.208 - 
+19012: 16:33:21.208 - MessageBox: Photon Socket Server: RPGInstance - 4.1.28.2936
+
+You can NOT run this instance, "RPGInstance", as an exe as it is already installed as a service.
+19012: 16:33:22.454 - Service shutting down: can't run as exe instance is already installed as service. Errorcode: 101
+19012: 16:33:22.459 - Service shut down complete
+16504: 16:33:56.036 - ---
+16504: 16:33:56.036 - Service: "Photon Socket Server" starting
+16504: 16:33:56.036 - Config File: C:\RPG\deploy\bin_Win64\PhotonServer.config
+16504: 16:33:56.036 - Will produce at most: 10 crash dumps
+16504: 16:33:56.037 - Action: remove service
+16504: 16:33:56.038 - Service: "Photon Socket Server: RPGInstance" removed
+16504: 16:33:56.038 - MessageBox: Photon Socket Server: RPGInstance - 4.0.28.2962
+
+Service removed
+
+Instance Name = "RPGInstance"
+16504: 16:33:56.902 - Service shutting down
+16504: 16:33:56.905 - Service shut down complete
+16716: 16:33:59.398 - ---
+16716: 16:33:59.398 - Service: "Photon Socket Server" starting
+16716: 16:33:59.398 - Config File: C:\RPG\deploy\bin_Win64\RPGDemo.config
+16716: 16:33:59.400 - Will produce at most: 10 crash dumps
+16716: 16:33:59.400 - Action: run as exe
+16716: 16:33:59.400 - 
+16716: 16:33:59.400 - ERROR: ***************************************************************
+16716: 16:33:59.400 - ERROR: You can NOT run this instance, "RPGInstance", as an exe as it is already installed as a service.
+16716: 16:33:59.400 - ERROR: ***************************************************************
+16716: 16:33:59.400 - 
+16716: 16:33:59.400 - MessageBox: Photon Socket Server: RPGInstance - 4.1.28.2936
+
+You can NOT run this instance, "RPGInstance", as an exe as it is already installed as a service.
+16716: 16:34:01.369 - Service shutting down: can't run as exe instance is already installed as service. Errorcode: 101
+16716: 16:34:01.370 - Service shut down complete

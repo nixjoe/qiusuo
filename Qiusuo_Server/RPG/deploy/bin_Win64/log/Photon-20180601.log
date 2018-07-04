@@ -1,0 +1,18 @@
+17196: 18:11:34.231 - ---
+17196: 18:11:34.231 - Service: "Photon Socket Server" starting
+17196: 18:11:34.232 - Config File: C:\RPG\deploy\bin_Win64\PhotonServer.config
+17196: 18:11:34.232 - Will produce at most: 10 crash dumps
+17196: 18:11:34.232 - Service shutting down
+17196: 18:11:34.234 - Service shut down complete
+21056: 18:12:53.143 - ---
+21056: 18:12:53.143 - Service: "Photon Socket Server" starting
+21056: 18:12:53.144 - Config File: C:\RPG\deploy\bin_Win64\PhotonServer.config
+21056: 18:12:53.144 - Will produce at most: 10 crash dumps
+21056: 18:12:53.144 - Service shutting down
+21056: 18:12:53.146 - Service shut down complete
+19348: 18:16:09.203 - ---
+19348: 18:16:09.203 - Service: "Photon Socket Server" starting
+19348: 18:16:09.203 - Config File: C:\RPG\deploy\bin_Win64\PhotonServer.config
+19348: 18:16:09.204 - Will produce at most: 10 crash dumps
+19348: 18:16:09.204 - Service shutting down
+19348: 18:16:09.206 - Service shut down complete

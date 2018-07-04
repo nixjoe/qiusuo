@@ -1,0 +1,271 @@
+2018-06-01 16:33:20,757 [18] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'RPGDemo' , assemblyName = 'RPGServer'
+2018-06-01 16:33:20,758 [18] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'C:\RPG\deploy'
+2018-06-01 16:33:20,758 [18] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'C:\RPG\deploy\RPGServer\bin;bin_Win64;Shared;'
+2018-06-01 16:33:20,758 [18] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = ''
+2018-06-01 16:33:20,759 [18] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'C:\RPG\deploy\RPGServer\bin\Cache'
+2018-06-01 16:33:20,880 [18] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'C:\RPG\deploy\RPGServer'
+2018-06-01 16:33:20,881 [18] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'C:\RPG\deploy\RPGServer\bin'
+2018-06-01 16:33:20,881 [18] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'C:\RPG\deploy'
+2018-06-01 16:33:20,882 [18] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'C:\RPG\deploy\bin_Win64\log'
+2018-06-01 16:33:20,908 [18] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: RPGServer, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null from file:///C:/RPG/deploy/RPGServer/bin/RPGServer.DLL
+2018-06-01 16:33:20,909 [18] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:4.0.28.11245
+2018-06-01 16:33:20,926 [18] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=4.0.28.11245, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///C:/RPG/deploy/RPGServer/bin/Photon.SocketServer.DLL
+2018-06-01 16:33:20,939 [18] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/RPG/deploy/RPGServer/bin/ExitGamesLibs.DLL
+2018-06-01 16:33:20,947 [18] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'RPGDemo', assemblyName = 'RPGServer', typeName = 'RPGServer.RPGApplication'
+2018-06-01 16:33:20,950 [18] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'RPGDemo', DomainId='3' -- calling Application.Setup
+2018-06-01 16:33:20,960 [18] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/RPG/deploy/RPGServer/bin/ExitGames.Logging.Log4Net.DLL
+2018-06-01 16:33:21,144 [18] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'RPGDemo', DomainId='2' -- calling Application.OnStopRequested()
+2018-06-01 16:33:21,146 [18] INFO  PhotonHostRuntime.PhotonDomainManager - Stop: ApplicationName = 'RPGDemo', DomainId='2' -- calling Application.TearDown()
+2018-06-01 16:33:59,195 [18] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'RPGDemo' , assemblyName = 'RPGServer'
+2018-06-01 16:33:59,195 [18] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'C:\RPG\deploy'
+2018-06-01 16:33:59,195 [18] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'C:\RPG\deploy\RPGServer\bin;bin_Win64;Shared;'
+2018-06-01 16:33:59,196 [18] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = ''
+2018-06-01 16:33:59,196 [18] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'C:\RPG\deploy\RPGServer\bin\Cache'
+2018-06-01 16:33:59,270 [18] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'C:\RPG\deploy\RPGServer'
+2018-06-01 16:33:59,270 [18] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'C:\RPG\deploy\RPGServer\bin'
+2018-06-01 16:33:59,271 [18] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'C:\RPG\deploy'
+2018-06-01 16:33:59,271 [18] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'C:\RPG\deploy\bin_Win64\log'
+2018-06-01 16:33:59,283 [18] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: RPGServer, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null from file:///C:/RPG/deploy/RPGServer/bin/RPGServer.DLL
+2018-06-01 16:33:59,284 [18] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:4.0.28.11245
+2018-06-01 16:33:59,296 [18] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=4.0.28.11245, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///C:/RPG/deploy/RPGServer/bin/Photon.SocketServer.DLL
+2018-06-01 16:33:59,310 [18] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/RPG/deploy/RPGServer/bin/ExitGamesLibs.DLL
+2018-06-01 16:33:59,318 [18] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'RPGDemo', assemblyName = 'RPGServer', typeName = 'RPGServer.RPGApplication'
+2018-06-01 16:33:59,320 [18] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'RPGDemo', DomainId='4' -- calling Application.Setup
+2018-06-01 16:33:59,332 [18] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/RPG/deploy/RPGServer/bin/ExitGames.Logging.Log4Net.DLL
+2018-06-01 16:33:59,483 [18] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'RPGDemo', DomainId='3' -- calling Application.OnStopRequested()
+2018-06-01 16:33:59,488 [18] INFO  PhotonHostRuntime.PhotonDomainManager - Stop: ApplicationName = 'RPGDemo', DomainId='3' -- calling Application.TearDown()
+2018-06-01 16:34:07,652 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'RPGDemo', DomainId='4' -- calling Application.OnStopRequested()
+2018-06-01 16:34:07,661 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'DefaultDomain', DomainId='1'
+2018-06-01 16:34:07,663 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Stop: ApplicationName = 'RPGDemo', DomainId='4' -- calling Application.TearDown()
+2018-06-01 17:58:37,883 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Initialize: ApplicationName = 'DefaultDomain', DomainID = '1'
+2018-06-01 17:58:37,904 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AppDomains with unhandled exceptions are usually not unloaded and restarted.
+2018-06-01 17:58:37,907 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Getting license information:
+2018-06-01 17:58:38,344 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: No license file was found - starting with Bootstrap License.
+2018-06-01 17:58:38,344 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: Expiration: never; floating license: no; max connections: 20; valid IPs: any
+2018-06-01 17:58:39,664 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'RPGDemo' , assemblyName = 'RPGServer'
+2018-06-01 17:58:39,665 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'C:\RPG\deploy'
+2018-06-01 17:58:39,666 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'C:\RPG\deploy\RPGServer\bin;bin_Win64;Shared;'
+2018-06-01 17:58:39,666 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = ''
+2018-06-01 17:58:39,666 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'C:\RPG\deploy\RPGServer\bin\Cache'
+2018-06-01 17:58:39,724 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'C:\RPG\deploy\RPGServer'
+2018-06-01 17:58:39,725 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'C:\RPG\deploy\RPGServer\bin'
+2018-06-01 17:58:39,726 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'C:\RPG\deploy'
+2018-06-01 17:58:39,727 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'C:\RPG\deploy\bin_Win64\log'
+2018-06-01 17:58:39,775 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: RPGServer, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null from file:///C:/RPG/deploy/RPGServer/bin/RPGServer.DLL
+2018-06-01 17:58:39,775 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:4.0.28.11245
+2018-06-01 17:58:39,790 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=4.0.28.11245, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///C:/RPG/deploy/RPGServer/bin/Photon.SocketServer.DLL
+2018-06-01 17:58:39,800 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/RPG/deploy/RPGServer/bin/ExitGamesLibs.DLL
+2018-06-01 17:58:39,807 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'RPGDemo', assemblyName = 'RPGServer', typeName = 'RPGServer.RPGApplication'
+2018-06-01 17:58:39,820 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'RPGDemo', DomainId='2' -- calling Application.Setup
+2018-06-01 17:58:39,832 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/RPG/deploy/RPGServer/bin/ExitGames.Logging.Log4Net.DLL
+2018-06-01 17:58:39,975 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'RPGDemo', DomainId='2' -- calling Application.OnStopRequested()
+2018-06-01 17:58:39,978 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'DefaultDomain', DomainId='1'
+2018-06-01 17:58:39,983 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Stop: ApplicationName = 'RPGDemo', DomainId='2' -- calling Application.TearDown()
+2018-06-01 17:58:44,449 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Initialize: ApplicationName = 'DefaultDomain', DomainID = '1'
+2018-06-01 17:58:44,474 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AppDomains with unhandled exceptions are usually not unloaded and restarted.
+2018-06-01 17:58:44,476 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Getting license information:
+2018-06-01 17:58:44,914 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: No license file was found - starting with Bootstrap License.
+2018-06-01 17:58:44,915 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: Expiration: never; floating license: no; max connections: 20; valid IPs: any
+2018-06-01 17:58:46,301 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'RPGDemo' , assemblyName = 'RPGServer'
+2018-06-01 17:58:46,302 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'C:\RPG\deploy'
+2018-06-01 17:58:46,302 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'C:\RPG\deploy\RPGServer\bin;bin_Win64;Shared;'
+2018-06-01 17:58:46,302 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = ''
+2018-06-01 17:58:46,303 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'C:\RPG\deploy\RPGServer\bin\Cache'
+2018-06-01 17:58:46,370 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'C:\RPG\deploy\RPGServer'
+2018-06-01 17:58:46,371 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'C:\RPG\deploy\RPGServer\bin'
+2018-06-01 17:58:46,371 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'C:\RPG\deploy'
+2018-06-01 17:58:46,372 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'C:\RPG\deploy\bin_Win64\log'
+2018-06-01 17:58:46,382 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: RPGServer, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null from file:///C:/RPG/deploy/RPGServer/bin/RPGServer.DLL
+2018-06-01 17:58:46,383 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:4.0.28.11245
+2018-06-01 17:58:46,392 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=4.0.28.11245, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///C:/RPG/deploy/RPGServer/bin/Photon.SocketServer.DLL
+2018-06-01 17:58:46,399 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/RPG/deploy/RPGServer/bin/ExitGamesLibs.DLL
+2018-06-01 17:58:46,405 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'RPGDemo', assemblyName = 'RPGServer', typeName = 'RPGServer.RPGApplication'
+2018-06-01 17:58:46,420 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'RPGDemo', DomainId='2' -- calling Application.Setup
+2018-06-01 17:58:46,431 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/RPG/deploy/RPGServer/bin/ExitGames.Logging.Log4Net.DLL
+2018-06-01 17:58:46,568 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'RPGDemo', DomainId='2' -- calling Application.OnStopRequested()
+2018-06-01 17:58:46,570 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'DefaultDomain', DomainId='1'
+2018-06-01 17:58:46,574 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Stop: ApplicationName = 'RPGDemo', DomainId='2' -- calling Application.TearDown()
+2018-06-01 17:59:05,841 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Initialize: ApplicationName = 'DefaultDomain', DomainID = '1'
+2018-06-01 17:59:05,859 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AppDomains with unhandled exceptions are usually not unloaded and restarted.
+2018-06-01 17:59:05,862 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Getting license information:
+2018-06-01 17:59:06,268 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: No license file was found - starting with Bootstrap License.
+2018-06-01 17:59:06,268 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: Expiration: never; floating license: no; max connections: 20; valid IPs: any
+2018-06-01 17:59:07,640 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'RPGDemo' , assemblyName = 'RPGServer'
+2018-06-01 17:59:07,641 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'C:\RPG\deploy'
+2018-06-01 17:59:07,641 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'C:\RPG\deploy\RPGServer\bin;bin_Win64;Shared;'
+2018-06-01 17:59:07,641 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = ''
+2018-06-01 17:59:07,642 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'C:\RPG\deploy\RPGServer\bin\Cache'
+2018-06-01 17:59:07,706 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'C:\RPG\deploy\RPGServer'
+2018-06-01 17:59:07,707 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'C:\RPG\deploy\RPGServer\bin'
+2018-06-01 17:59:07,707 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'C:\RPG\deploy'
+2018-06-01 17:59:07,708 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'C:\RPG\deploy\bin_Win64\log'
+2018-06-01 17:59:07,718 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: RPGServer, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null from file:///C:/RPG/deploy/RPGServer/bin/RPGServer.DLL
+2018-06-01 17:59:07,720 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:4.0.28.11245
+2018-06-01 17:59:07,732 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=4.0.28.11245, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///C:/RPG/deploy/RPGServer/bin/Photon.SocketServer.DLL
+2018-06-01 17:59:07,743 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/RPG/deploy/RPGServer/bin/ExitGamesLibs.DLL
+2018-06-01 17:59:07,751 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'RPGDemo', assemblyName = 'RPGServer', typeName = 'RPGServer.RPGApplication'
+2018-06-01 17:59:07,770 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'RPGDemo', DomainId='2' -- calling Application.Setup
+2018-06-01 17:59:07,782 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/RPG/deploy/RPGServer/bin/ExitGames.Logging.Log4Net.DLL
+2018-06-01 17:59:07,951 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'RPGDemo', DomainId='2' -- calling Application.OnStopRequested()
+2018-06-01 17:59:07,953 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'DefaultDomain', DomainId='1'
+2018-06-01 17:59:07,958 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Stop: ApplicationName = 'RPGDemo', DomainId='2' -- calling Application.TearDown()
+2018-06-01 17:59:25,423 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Initialize: ApplicationName = 'DefaultDomain', DomainID = '1'
+2018-06-01 17:59:25,444 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AppDomains with unhandled exceptions are usually not unloaded and restarted.
+2018-06-01 17:59:25,446 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Getting license information:
+2018-06-01 17:59:25,874 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: No license file was found - starting with Bootstrap License.
+2018-06-01 17:59:25,875 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: Expiration: never; floating license: no; max connections: 20; valid IPs: any
+2018-06-01 17:59:27,238 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'RPGDemo' , assemblyName = 'RPGServer'
+2018-06-01 17:59:27,239 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'C:\RPG\deploy'
+2018-06-01 17:59:27,240 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'C:\RPG\deploy\RPGServer\bin;bin_Win64;Shared;'
+2018-06-01 17:59:27,240 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = ''
+2018-06-01 17:59:27,240 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'C:\RPG\deploy\RPGServer\bin\Cache'
+2018-06-01 17:59:27,302 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'C:\RPG\deploy\RPGServer'
+2018-06-01 17:59:27,303 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'C:\RPG\deploy\RPGServer\bin'
+2018-06-01 17:59:27,303 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'C:\RPG\deploy'
+2018-06-01 17:59:27,304 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'C:\RPG\deploy\bin_Win64\log'
+2018-06-01 17:59:27,315 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: RPGServer, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null from file:///C:/RPG/deploy/RPGServer/bin/RPGServer.DLL
+2018-06-01 17:59:27,316 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:4.0.28.11245
+2018-06-01 17:59:27,326 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=4.0.28.11245, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///C:/RPG/deploy/RPGServer/bin/Photon.SocketServer.DLL
+2018-06-01 17:59:27,333 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/RPG/deploy/RPGServer/bin/ExitGamesLibs.DLL
+2018-06-01 17:59:27,338 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'RPGDemo', assemblyName = 'RPGServer', typeName = 'RPGServer.RPGApplication'
+2018-06-01 17:59:27,350 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'RPGDemo', DomainId='2' -- calling Application.Setup
+2018-06-01 17:59:27,358 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/RPG/deploy/RPGServer/bin/ExitGames.Logging.Log4Net.DLL
+2018-06-01 17:59:27,473 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'RPGDemo', DomainId='2' -- calling Application.OnStopRequested()
+2018-06-01 17:59:27,475 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'DefaultDomain', DomainId='1'
+2018-06-01 17:59:27,481 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Stop: ApplicationName = 'RPGDemo', DomainId='2' -- calling Application.TearDown()
+2018-06-01 18:01:17,736 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Initialize: ApplicationName = 'DefaultDomain', DomainID = '1'
+2018-06-01 18:01:17,756 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AppDomains with unhandled exceptions are usually not unloaded and restarted.
+2018-06-01 18:01:17,758 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Getting license information:
+2018-06-01 18:01:18,187 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: No license file was found - starting with Bootstrap License.
+2018-06-01 18:01:18,187 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: Expiration: never; floating license: no; max connections: 20; valid IPs: any
+2018-06-01 18:01:19,501 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'RPGDemo' , assemblyName = 'RPGServer'
+2018-06-01 18:01:19,502 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'C:\RPG\deploy'
+2018-06-01 18:01:19,503 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'C:\RPG\deploy\RPGServer\bin;bin_Win64;Shared;'
+2018-06-01 18:01:19,503 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = ''
+2018-06-01 18:01:19,503 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'C:\RPG\deploy\RPGServer\bin\Cache'
+2018-06-01 18:01:19,568 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'C:\RPG\deploy\RPGServer'
+2018-06-01 18:01:19,568 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'C:\RPG\deploy\RPGServer\bin'
+2018-06-01 18:01:19,569 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'C:\RPG\deploy'
+2018-06-01 18:01:19,570 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'C:\RPG\deploy\bin_Win64\log'
+2018-06-01 18:01:19,601 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: RPGServer, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null from file:///C:/RPG/deploy/RPGServer/bin/RPGServer.DLL
+2018-06-01 18:01:19,602 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:4.0.28.11245
+2018-06-01 18:01:19,614 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=4.0.28.11245, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///C:/RPG/deploy/RPGServer/bin/Photon.SocketServer.DLL
+2018-06-01 18:01:19,623 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/RPG/deploy/RPGServer/bin/ExitGamesLibs.DLL
+2018-06-01 18:01:19,629 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'RPGDemo', assemblyName = 'RPGServer', typeName = 'RPGServer.RPGApplication'
+2018-06-01 18:01:19,643 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'RPGDemo', DomainId='2' -- calling Application.Setup
+2018-06-01 18:01:19,652 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/RPG/deploy/RPGServer/bin/ExitGames.Logging.Log4Net.DLL
+2018-06-01 18:01:19,784 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'RPGDemo', DomainId='2' -- calling Application.OnStopRequested()
+2018-06-01 18:01:19,786 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'DefaultDomain', DomainId='1'
+2018-06-01 18:01:19,790 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Stop: ApplicationName = 'RPGDemo', DomainId='2' -- calling Application.TearDown()
+2018-06-01 18:08:46,847 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Initialize: ApplicationName = 'DefaultDomain', DomainID = '1'
+2018-06-01 18:08:46,866 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AppDomains with unhandled exceptions are usually not unloaded and restarted.
+2018-06-01 18:08:46,868 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Getting license information:
+2018-06-01 18:08:47,278 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: No license file was found - starting with Bootstrap License.
+2018-06-01 18:08:47,278 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: Expiration: never; floating license: no; max connections: 20; valid IPs: any
+2018-06-01 18:08:48,629 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'RPGDemo' , assemblyName = 'RPGServer'
+2018-06-01 18:08:48,630 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'C:\RPG\deploy'
+2018-06-01 18:08:48,630 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'C:\RPG\deploy\RPGServer\bin;bin_Win64;Shared;'
+2018-06-01 18:08:48,630 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = ''
+2018-06-01 18:08:48,631 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'C:\RPG\deploy\RPGServer\bin\Cache'
+2018-06-01 18:08:48,698 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'C:\RPG\deploy\RPGServer'
+2018-06-01 18:08:48,698 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'C:\RPG\deploy\RPGServer\bin'
+2018-06-01 18:08:48,699 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'C:\RPG\deploy'
+2018-06-01 18:08:48,699 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'C:\RPG\deploy\bin_Win64\log'
+2018-06-01 18:08:48,735 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: RPGServer, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null from file:///C:/RPG/deploy/RPGServer/bin/RPGServer.DLL
+2018-06-01 18:08:48,735 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:4.0.28.11245
+2018-06-01 18:08:48,747 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=4.0.28.11245, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///C:/RPG/deploy/RPGServer/bin/Photon.SocketServer.DLL
+2018-06-01 18:08:48,789 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/RPG/deploy/RPGServer/bin/ExitGamesLibs.DLL
+2018-06-01 18:08:48,794 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'RPGDemo', assemblyName = 'RPGServer', typeName = 'RPGServer.RPGApplication'
+2018-06-01 18:08:48,806 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'RPGDemo', DomainId='2' -- calling Application.Setup
+2018-06-01 18:08:48,814 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/RPG/deploy/RPGServer/bin/ExitGames.Logging.Log4Net.DLL
+2018-06-01 18:08:49,104 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: bindata, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null from file:///C:/RPG/deploy/bindata.DLL
+2018-06-01 18:08:49,577 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'DefaultDomain', DomainId='1'
+2018-06-01 18:11:29,685 [16] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'RPGDemo' , assemblyName = 'RPGServer'
+2018-06-01 18:11:29,686 [16] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'C:\RPG\deploy'
+2018-06-01 18:11:29,687 [16] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'C:\RPG\deploy\RPGServer\bin;bin_Win64;Shared;'
+2018-06-01 18:11:29,688 [16] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = ''
+2018-06-01 18:11:29,688 [16] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'C:\RPG\deploy\RPGServer\bin\Cache'
+2018-06-01 18:11:29,836 [16] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'C:\RPG\deploy\RPGServer'
+2018-06-01 18:11:29,836 [16] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'C:\RPG\deploy\RPGServer\bin'
+2018-06-01 18:11:29,837 [16] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'C:\RPG\deploy'
+2018-06-01 18:11:29,837 [16] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'C:\RPG\deploy\bin_Win64\log'
+2018-06-01 18:11:29,859 [16] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: RPGServer, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null from file:///C:/RPG/deploy/RPGServer/bin/RPGServer.DLL
+2018-06-01 18:11:29,860 [16] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:4.0.28.11245
+2018-06-01 18:11:29,874 [16] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=4.0.28.11245, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///C:/RPG/deploy/RPGServer/bin/Photon.SocketServer.DLL
+2018-06-01 18:11:29,881 [16] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/RPG/deploy/RPGServer/bin/ExitGamesLibs.DLL
+2018-06-01 18:11:29,887 [16] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'RPGDemo', assemblyName = 'RPGServer', typeName = 'RPGServer.RPGApplication'
+2018-06-01 18:11:29,889 [16] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'RPGDemo', DomainId='3' -- calling Application.Setup
+2018-06-01 18:11:29,896 [16] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/RPG/deploy/RPGServer/bin/ExitGames.Logging.Log4Net.DLL
+2018-06-01 18:11:30,169 [16] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: bindata, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null from file:///C:/RPG/deploy/bindata.DLL
+2018-06-01 18:11:30,571 [16] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'RPGDemo', DomainId='2' -- calling Application.OnStopRequested()
+2018-06-01 18:11:30,573 [16] INFO  PhotonHostRuntime.PhotonDomainManager - Stop: ApplicationName = 'RPGDemo', DomainId='2' -- calling Application.TearDown()
+2018-06-01 18:11:34,201 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'RPGDemo', DomainId='3' -- calling Application.OnStopRequested()
+2018-06-01 18:11:34,218 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'DefaultDomain', DomainId='1'
+2018-06-01 18:11:34,222 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Stop: ApplicationName = 'RPGDemo', DomainId='3' -- calling Application.TearDown()
+2018-06-01 18:11:38,393 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Initialize: ApplicationName = 'DefaultDomain', DomainID = '1'
+2018-06-01 18:11:38,416 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AppDomains with unhandled exceptions are usually not unloaded and restarted.
+2018-06-01 18:11:38,419 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Getting license information:
+2018-06-01 18:11:38,831 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: No license file was found - starting with Bootstrap License.
+2018-06-01 18:11:38,831 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: Expiration: never; floating license: no; max connections: 20; valid IPs: any
+2018-06-01 18:11:40,202 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'RPGDemo' , assemblyName = 'RPGServer'
+2018-06-01 18:11:40,204 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'C:\RPG\deploy'
+2018-06-01 18:11:40,205 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'C:\RPG\deploy\RPGServer\bin;bin_Win64;Shared;'
+2018-06-01 18:11:40,205 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = ''
+2018-06-01 18:11:40,205 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'C:\RPG\deploy\RPGServer\bin\Cache'
+2018-06-01 18:11:40,263 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'C:\RPG\deploy\RPGServer'
+2018-06-01 18:11:40,264 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'C:\RPG\deploy\RPGServer\bin'
+2018-06-01 18:11:40,264 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'C:\RPG\deploy'
+2018-06-01 18:11:40,265 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'C:\RPG\deploy\bin_Win64\log'
+2018-06-01 18:11:40,275 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: RPGServer, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null from file:///C:/RPG/deploy/RPGServer/bin/RPGServer.DLL
+2018-06-01 18:11:40,276 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:4.0.28.11245
+2018-06-01 18:11:40,286 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=4.0.28.11245, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///C:/RPG/deploy/RPGServer/bin/Photon.SocketServer.DLL
+2018-06-01 18:11:40,295 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/RPG/deploy/RPGServer/bin/ExitGamesLibs.DLL
+2018-06-01 18:11:40,301 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'RPGDemo', assemblyName = 'RPGServer', typeName = 'RPGServer.RPGApplication'
+2018-06-01 18:11:40,314 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'RPGDemo', DomainId='2' -- calling Application.Setup
+2018-06-01 18:11:40,322 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/RPG/deploy/RPGServer/bin/ExitGames.Logging.Log4Net.DLL
+2018-06-01 18:11:40,597 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: bindata, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null from file:///C:/RPG/deploy/bindata.DLL
+2018-06-01 18:11:40,978 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'DefaultDomain', DomainId='1'
+2018-06-01 18:12:50,292 [17] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'RPGDemo' , assemblyName = 'RPGServer'
+2018-06-01 18:12:50,294 [17] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'C:\RPG\deploy'
+2018-06-01 18:12:50,294 [17] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'C:\RPG\deploy\RPGServer\bin;bin_Win64;Shared;'
+2018-06-01 18:12:50,295 [17] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = ''
+2018-06-01 18:12:50,295 [17] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'C:\RPG\deploy\RPGServer\bin\Cache'
+2018-06-01 18:12:50,376 [17] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'C:\RPG\deploy\RPGServer'
+2018-06-01 18:12:50,376 [17] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'C:\RPG\deploy\RPGServer\bin'
+2018-06-01 18:12:50,377 [17] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'C:\RPG\deploy'
+2018-06-01 18:12:50,377 [17] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'C:\RPG\deploy\bin_Win64\log'
+2018-06-01 18:12:50,413 [17] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: RPGServer, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null from file:///C:/RPG/deploy/RPGServer/bin/RPGServer.DLL
+2018-06-01 18:12:50,414 [17] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:4.0.28.11245
+2018-06-01 18:12:50,470 [17] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=4.0.28.11245, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///C:/RPG/deploy/RPGServer/bin/Photon.SocketServer.DLL
+2018-06-01 18:12:50,478 [17] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/RPG/deploy/RPGServer/bin/ExitGamesLibs.DLL
+2018-06-01 18:12:50,484 [17] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'RPGDemo', assemblyName = 'RPGServer', typeName = 'RPGServer.RPGApplication'
+2018-06-01 18:12:50,486 [17] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'RPGDemo', DomainId='3' -- calling Application.Setup
+2018-06-01 18:12:50,493 [17] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/RPG/deploy/RPGServer/bin/ExitGames.Logging.Log4Net.DLL
+2018-06-01 18:12:50,631 [17] INFO  PhotonHostRuntime.PhotonDomainManager - Stop: ApplicationName = 'RPGDemo', DomainId='3' -- calling Application.TearDown()
+2018-06-01 18:12:53,107 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'RPGDemo', DomainId='2' -- calling Application.OnStopRequested()
+2018-06-01 18:12:53,122 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'DefaultDomain', DomainId='1'
+2018-06-01 18:12:53,130 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Stop: ApplicationName = 'RPGDemo', DomainId='2' -- calling Application.TearDown()
+2018-06-01 18:12:56,688 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Initialize: ApplicationName = 'DefaultDomain', DomainID = '1'
+2018-06-01 18:12:56,712 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AppDomains with unhandled exceptions are usually not unloaded and restarted.
+2018-06-01 18:12:56,715 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Getting license information:
+2018-06-01 18:12:57,140 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: No license file was found - starting with Bootstrap License.
+2018-06-01 18:12:57,140 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: Expiration: never; floating license: no; max connections: 20; valid IPs: any
+2018-06-01 18:12:58,492 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'RPGDemo' , assemblyName = 'RPGServer'
+2018-06-01 18:12:58,494 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'C:\RPG\deploy'
+2018-06-01 18:12:58,494 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'C:\RPG\deploy\RPGServer\bin;bin_Win64;Shared;'
+2018-06-01 18:12:58,495 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = ''
+2018-06-01 18:12:58,495 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'C:\RPG\deploy\RPGServer\bin\Cache'
+2018-06-01 18:12:58,556 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'C:\RPG\deploy\RPGServer'
+2018-06-01 18:12:58,556 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'C:\RPG\deploy\RPGServer\bin'
+2018-06-01 18:12:58,556 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'C:\RPG\deploy'
+2018-06-01 18:12:58,557 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'C:\RPG\deploy\bin_Win64\log'
+2018-06-01 18:12:58,568 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: RPGServer, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null from file:///C:/RPG/deploy/RPGServer/bin/RPGServer.DLL
+2018-06-01 18:12:58,568 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:4.0.28.11245
+2018-06-01 18:12:58,577 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=4.0.28.11245, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///C:/RPG/deploy/RPGServer/bin/Photon.SocketServer.DLL
+2018-06-01 18:12:58,584 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/RPG/deploy/RPGServer/bin/ExitGamesLibs.DLL
+2018-06-01 18:12:58,590 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'RPGDemo', assemblyName = 'RPGServer', typeName = 'RPGServer.RPGApplication'
+2018-06-01 18:12:58,606 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'RPGDemo', DomainId='2' -- calling Application.Setup
+2018-06-01 18:12:58,615 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///C:/RPG/deploy/RPGServer/bin/ExitGames.Logging.Log4Net.DLL
+2018-06-01 18:12:58,734 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'RPGDemo', DomainId='2' -- calling Application.OnStopRequested()
+2018-06-01 18:12:58,736 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'DefaultDomain', DomainId='1'
+2018-06-01 18:12:58,740 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Stop: ApplicationName = 'RPGDemo', DomainId='2' -- calling Application.TearDown()

@@ -1,0 +1,200 @@
+2018-06-01 14:04:55,464 [1] INFO  RPGServer.RPGApplication - 日志配置文件设置成功
+2018-06-01 14:04:55,478 [1] INFO  RPGServer.RPGApplication - 服务器运行中:ServerName==>RPGDemo ServerUID==>1  ServerGuid==>a0754e6d-63f6-4a75-9f36-87e9723b8f1d
+2018-06-01 14:04:55,482 [1] INFO  RPGServer.RPGApplication - 初始化技能数据...
+2018-06-01 14:04:55,482 [1] INFO  RPGServer.RPGApplication - 技能数据初始化完成 time:00:00:00
+2018-06-01 14:04:55,482 [1] INFO  RPGServer.RPGApplication - 启动线程
+2018-06-01 14:04:55,482 [1] INFO  RPGServer.RPGApplication - 预热协议
+2018-06-01 14:04:55,482 [1] INFO  RPGServer.RPGApplication - ManagedThreadId ==> 1
+2018-06-01 14:04:55,482 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=RPGDemo; AppPath=C:\RPG\deploy\RPGServer, Type=RPGServer.RPGApplication 
+2018-06-01 14:05:00,327 [1] INFO  RPGServer.RPGApplication - ServerName==>RPGDemo ServerUID==>1  ServerGuid==>a0754e6d-63f6-4a75-9f36-87e9723b8f1d
+2018-06-01 14:05:00,327 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=RPGDemo
+2018-06-01 14:05:00,334 [1] INFO  RPGServer.RPGApplication - 服务器关闭:ServerName==>RPGDemo ServerUID==>1  ServerGuid==>a0754e6d-63f6-4a75-9f36-87e9723b8f1d
+2018-06-01 14:05:00,334 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=RPGDemo
+2018-06-01 16:18:09,363 [1] INFO  RPGServer.RPGApplication - 日志配置文件设置成功
+2018-06-01 16:18:09,377 [1] INFO  RPGServer.RPGApplication - 服务器运行中:ServerName==>RPGDemo ServerUID==>1  ServerGuid==>b456baf6-3752-44ef-8573-a6411ffdf25a
+2018-06-01 16:18:09,381 [1] INFO  RPGServer.RPGApplication - 初始化技能数据...
+2018-06-01 16:18:09,381 [1] INFO  RPGServer.RPGApplication - 技能数据初始化完成 time:00:00:00
+2018-06-01 16:18:09,381 [1] INFO  RPGServer.RPGApplication - 启动线程
+2018-06-01 16:18:09,381 [1] INFO  RPGServer.RPGApplication - 预热协议
+2018-06-01 16:18:09,381 [1] INFO  RPGServer.RPGApplication - ManagedThreadId ==> 1
+2018-06-01 16:18:09,381 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=RPGDemo; AppPath=C:\RPG\deploy\RPGServer, Type=RPGServer.RPGApplication 
+2018-06-01 16:18:16,612 [11] INFO  RPGServer.RPGPeer - 客户端连接:PeerGuid:6bdc3e6e-2f38-4b9b-a60a-2218f06444d6,ConnectionId:0,RemoteIP => 127.0.0.1:51807
+2018-06-01 16:18:55,211 [14] INFO  RPGServer.RPGPeer - peer disconnect, PeerGuid:6bdc3e6e-2f38-4b9b-a60a-2218f06444d6, reasonCode:ClientDisconnect
+2018-06-01 16:19:17,924 [10] INFO  RPGServer.RPGApplication - ServerName==>RPGDemo ServerUID==>1  ServerGuid==>b456baf6-3752-44ef-8573-a6411ffdf25a
+2018-06-01 16:19:17,924 [10] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=RPGDemo
+2018-06-01 16:19:17,926 [10] INFO  RPGServer.RPGApplication - 服务器关闭:ServerName==>RPGDemo ServerUID==>1  ServerGuid==>b456baf6-3752-44ef-8573-a6411ffdf25a
+2018-06-01 16:19:17,926 [10] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=RPGDemo
+2018-06-01 16:26:51,132 [10] INFO  RPGServer.RPGApplication - ServerName==>RPGDemo ServerUID==>1  ServerGuid==>553e28b1-c5a5-4c75-a3cb-75c4c61ac150
+2018-06-01 16:26:51,135 [10] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=RPGDemo
+2018-06-01 16:26:51,136 [10] INFO  RPGServer.RPGApplication - 服务器关闭:ServerName==>RPGDemo ServerUID==>1  ServerGuid==>553e28b1-c5a5-4c75-a3cb-75c4c61ac150
+2018-06-01 16:26:51,136 [10] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=RPGDemo
+2018-06-01 16:27:00,985 [1] INFO  RPGServer.RPGApplication - ServerName==>RPGDemo ServerUID==>1  ServerGuid==>2945d93e-b167-46a9-b29a-711f04734a13
+2018-06-01 16:27:00,991 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=RPGDemo
+2018-06-01 16:27:00,995 [1] INFO  RPGServer.RPGApplication - 服务器关闭:ServerName==>RPGDemo ServerUID==>1  ServerGuid==>2945d93e-b167-46a9-b29a-711f04734a13
+2018-06-01 16:27:00,995 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=RPGDemo
+2018-06-01 16:27:03,533 [1] INFO  RPGServer.RPGApplication - 日志配置文件设置成功
+2018-06-01 16:27:03,554 [1] INFO  RPGServer.RPGApplication - 服务器运行中:ServerName==>RPGDemo ServerUID==>1  ServerGuid==>275700e8-1d1b-4b34-a7a3-e6a9966bb8c8
+2018-06-01 16:27:03,559 [1] INFO  RPGServer.RPGApplication - 初始化技能数据...
+2018-06-01 16:27:03,559 [1] INFO  RPGServer.RPGApplication - 技能数据初始化完成 time:00:00:00
+2018-06-01 16:27:03,559 [1] INFO  RPGServer.RPGApplication - 启动线程
+2018-06-01 16:27:03,560 [1] INFO  RPGServer.RPGApplication - 预热协议
+2018-06-01 16:27:03,560 [1] INFO  RPGServer.RPGApplication - ManagedThreadId ==> 1
+2018-06-01 16:27:03,560 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=RPGDemo; AppPath=C:\RPG\deploy\RPGServer, Type=RPGServer.RPGApplication 
+2018-06-01 16:29:06,364 [11] INFO  RPGServer.RPGPeer - 客户端连接:PeerGuid =>6eca6f85-7d17-4cb3-98d6-ebb0f9a3aa96,ConnectionId => 0,RemoteIP => 127.0.0.1:56920
+2018-06-01 16:29:06,365 [11] INFO  RPGServer.RPGPeer - 当前连接/连接总数: 0/1
+2018-06-01 16:30:01,228 [11] INFO  RPGServer.RPGPeer - 客户端连接:PeerGuid =>53026bf8-37ae-44b0-a02a-0dca642699f7,ConnectionId => 1,RemoteIP => 127.0.0.1:52150
+2018-06-01 16:30:01,229 [11] INFO  RPGServer.RPGPeer - 当前连接/连接总数: 1/2
+2018-06-01 16:30:22,820 [12] INFO  RPGServer.RPGPeer - peer disconnect, PeerGuid:53026bf8-37ae-44b0-a02a-0dca642699f7, reasonCode:ClientDisconnect
+2018-06-01 16:31:20,868 [11] INFO  RPGServer.RPGPeer - peer disconnect, PeerGuid:6eca6f85-7d17-4cb3-98d6-ebb0f9a3aa96, reasonCode:ClientDisconnect
+2018-06-01 16:33:21,145 [18] INFO  RPGServer.RPGApplication - ServerName==>RPGDemo ServerUID==>1  ServerGuid==>275700e8-1d1b-4b34-a7a3-e6a9966bb8c8
+2018-06-01 16:33:21,146 [18] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=RPGDemo
+2018-06-01 16:33:21,148 [18] INFO  RPGServer.RPGApplication - 服务器关闭:ServerName==>RPGDemo ServerUID==>1  ServerGuid==>275700e8-1d1b-4b34-a7a3-e6a9966bb8c8
+2018-06-01 16:33:21,148 [18] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=RPGDemo
+2018-06-01 16:33:59,484 [18] INFO  RPGServer.RPGApplication - ServerName==>RPGDemo ServerUID==>1  ServerGuid==>4594eb2a-33e3-4c8d-ac0a-c5bc2627c17e
+2018-06-01 16:33:59,487 [18] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=RPGDemo
+2018-06-01 16:33:59,489 [18] INFO  RPGServer.RPGApplication - 服务器关闭:ServerName==>RPGDemo ServerUID==>1  ServerGuid==>4594eb2a-33e3-4c8d-ac0a-c5bc2627c17e
+2018-06-01 16:33:59,489 [18] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=RPGDemo
+2018-06-01 16:34:07,654 [1] INFO  RPGServer.RPGApplication - ServerName==>RPGDemo ServerUID==>1  ServerGuid==>f30074df-8441-47cd-a0c7-4946dbfc5f11
+2018-06-01 16:34:07,660 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=RPGDemo
+2018-06-01 16:34:07,664 [1] INFO  RPGServer.RPGApplication - 服务器关闭:ServerName==>RPGDemo ServerUID==>1  ServerGuid==>f30074df-8441-47cd-a0c7-4946dbfc5f11
+2018-06-01 16:34:07,664 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=RPGDemo
+2018-06-01 17:58:39,934 [1] INFO  RPGServer.RPGApplication - 日志配置文件设置成功
+2018-06-01 17:58:39,948 [1] INFO  RPGServer.RPGApplication - 服务器运行中:ServerName==>RPGDemo ServerUID==>1  ServerGuid==>2209d7a6-1f6b-42f5-a9e0-7cb4dbbd283a
+2018-06-01 17:58:39,952 [1] INFO  RPGServer.RPGApplication - 初始化技能数据...
+2018-06-01 17:58:39,953 [1] INFO  RPGServer.Manager.BaseDataMgr - ===>PVP Load bindata:C:\RPG\deploy\bindata.xml
+2018-06-01 17:58:39,955 [1] ERROR Photon.SocketServer.ApplicationBase - System.IO.FileNotFoundException: 未能找到文件“C:\RPG\deploy\bindata.xml”。
+文件名:“C:\RPG\deploy\bindata.xml”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   在 RPGServer.Manager.BaseDataMgr.InitBaseConfigData() 位置 C:\RPG\src-server\RPG\RPGServer\Manager\BaseDataMgr.cs:行号 36
+   在 RPGServer.RPGApplication.SetSkillData() 位置 C:\RPG\src-server\RPG\RPGServer\RPGApplication.cs:行号 106
+   在 RPGServer.RPGApplication.Setup() 位置 C:\RPG\src-server\RPG\RPGServer\RPGApplication.cs:行号 74
+   在 Photon.SocketServer.ApplicationBase.PhotonHostRuntimeInterfaces.IPhotonControl.OnPhotonRunning() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\ApplicationBase.cs:行号 1171
+2018-06-01 17:58:39,976 [1] INFO  RPGServer.RPGApplication - ServerName==>RPGDemo ServerUID==>1  ServerGuid==>2209d7a6-1f6b-42f5-a9e0-7cb4dbbd283a
+2018-06-01 17:58:39,976 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=RPGDemo
+2018-06-01 17:58:39,984 [1] INFO  RPGServer.RPGApplication - 服务器关闭:ServerName==>RPGDemo ServerUID==>1  ServerGuid==>2209d7a6-1f6b-42f5-a9e0-7cb4dbbd283a
+2018-06-01 17:58:39,984 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=RPGDemo
+2018-06-01 17:58:46,539 [1] INFO  RPGServer.RPGApplication - 日志配置文件设置成功
+2018-06-01 17:58:46,556 [1] INFO  RPGServer.RPGApplication - 服务器运行中:ServerName==>RPGDemo ServerUID==>1  ServerGuid==>3fa687d7-94e0-4eb6-a3f1-a09c4153c9f9
+2018-06-01 17:58:46,559 [1] INFO  RPGServer.RPGApplication - 初始化技能数据...
+2018-06-01 17:58:46,560 [1] INFO  RPGServer.Manager.BaseDataMgr - ===>PVP Load bindata:C:\RPG\deploy\bindata.xml
+2018-06-01 17:58:46,561 [1] ERROR Photon.SocketServer.ApplicationBase - System.IO.FileNotFoundException: 未能找到文件“C:\RPG\deploy\bindata.xml”。
+文件名:“C:\RPG\deploy\bindata.xml”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   在 RPGServer.Manager.BaseDataMgr.InitBaseConfigData() 位置 C:\RPG\src-server\RPG\RPGServer\Manager\BaseDataMgr.cs:行号 36
+   在 RPGServer.RPGApplication.SetSkillData() 位置 C:\RPG\src-server\RPG\RPGServer\RPGApplication.cs:行号 106
+   在 RPGServer.RPGApplication.Setup() 位置 C:\RPG\src-server\RPG\RPGServer\RPGApplication.cs:行号 74
+   在 Photon.SocketServer.ApplicationBase.PhotonHostRuntimeInterfaces.IPhotonControl.OnPhotonRunning() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\ApplicationBase.cs:行号 1171
+2018-06-01 17:58:46,569 [1] INFO  RPGServer.RPGApplication - ServerName==>RPGDemo ServerUID==>1  ServerGuid==>3fa687d7-94e0-4eb6-a3f1-a09c4153c9f9
+2018-06-01 17:58:46,569 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=RPGDemo
+2018-06-01 17:58:46,575 [1] INFO  RPGServer.RPGApplication - 服务器关闭:ServerName==>RPGDemo ServerUID==>1  ServerGuid==>3fa687d7-94e0-4eb6-a3f1-a09c4153c9f9
+2018-06-01 17:58:46,575 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=RPGDemo
+2018-06-01 17:59:07,923 [1] INFO  RPGServer.RPGApplication - 日志配置文件设置成功
+2018-06-01 17:59:07,939 [1] INFO  RPGServer.RPGApplication - 服务器运行中:ServerName==>RPGDemo ServerUID==>1  ServerGuid==>03545788-bbd5-4c2e-9530-2c92e1c4d002
+2018-06-01 17:59:07,943 [1] INFO  RPGServer.RPGApplication - 初始化技能数据...
+2018-06-01 17:59:07,943 [1] INFO  RPGServer.Manager.BaseDataMgr - ===>PVP Load bindata:C:\RPG\deploy\bindata.xml
+2018-06-01 17:59:07,944 [1] ERROR Photon.SocketServer.ApplicationBase - System.IO.FileNotFoundException: 未能找到文件“C:\RPG\deploy\bindata.xml”。
+文件名:“C:\RPG\deploy\bindata.xml”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   在 RPGServer.Manager.BaseDataMgr.InitBaseConfigData() 位置 C:\RPG\src-server\RPG\RPGServer\Manager\BaseDataMgr.cs:行号 36
+   在 RPGServer.RPGApplication.SetSkillData() 位置 C:\RPG\src-server\RPG\RPGServer\RPGApplication.cs:行号 106
+   在 RPGServer.RPGApplication.Setup() 位置 C:\RPG\src-server\RPG\RPGServer\RPGApplication.cs:行号 74
+   在 Photon.SocketServer.ApplicationBase.PhotonHostRuntimeInterfaces.IPhotonControl.OnPhotonRunning() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\ApplicationBase.cs:行号 1171
+2018-06-01 17:59:07,952 [1] INFO  RPGServer.RPGApplication - ServerName==>RPGDemo ServerUID==>1  ServerGuid==>03545788-bbd5-4c2e-9530-2c92e1c4d002
+2018-06-01 17:59:07,952 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=RPGDemo
+2018-06-01 17:59:07,958 [1] INFO  RPGServer.RPGApplication - 服务器关闭:ServerName==>RPGDemo ServerUID==>1  ServerGuid==>03545788-bbd5-4c2e-9530-2c92e1c4d002
+2018-06-01 17:59:07,959 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=RPGDemo
+2018-06-01 17:59:27,446 [1] INFO  RPGServer.RPGApplication - 日志配置文件设置成功
+2018-06-01 17:59:27,460 [1] INFO  RPGServer.RPGApplication - 服务器运行中:ServerName==>RPGDemo ServerUID==>1  ServerGuid==>d274e805-61db-43d4-a7da-eff30403d3d2
+2018-06-01 17:59:27,464 [1] INFO  RPGServer.RPGApplication - 初始化技能数据...
+2018-06-01 17:59:27,465 [1] INFO  RPGServer.Manager.BaseDataMgr - ===>PVP Load bindata:C:\RPG\deploy\bindata.xml
+2018-06-01 17:59:27,465 [1] ERROR Photon.SocketServer.ApplicationBase - System.IO.FileNotFoundException: 未能找到文件“C:\RPG\deploy\bindata.xml”。
+文件名:“C:\RPG\deploy\bindata.xml”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   在 RPGServer.Manager.BaseDataMgr.InitBaseConfigData() 位置 C:\RPG\src-server\RPG\RPGServer\Manager\BaseDataMgr.cs:行号 36
+   在 RPGServer.RPGApplication.SetSkillData() 位置 C:\RPG\src-server\RPG\RPGServer\RPGApplication.cs:行号 106
+   在 RPGServer.RPGApplication.Setup() 位置 C:\RPG\src-server\RPG\RPGServer\RPGApplication.cs:行号 74
+   在 Photon.SocketServer.ApplicationBase.PhotonHostRuntimeInterfaces.IPhotonControl.OnPhotonRunning() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\ApplicationBase.cs:行号 1171
+2018-06-01 17:59:27,474 [1] INFO  RPGServer.RPGApplication - ServerName==>RPGDemo ServerUID==>1  ServerGuid==>d274e805-61db-43d4-a7da-eff30403d3d2
+2018-06-01 17:59:27,474 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=RPGDemo
+2018-06-01 17:59:27,481 [1] INFO  RPGServer.RPGApplication - 服务器关闭:ServerName==>RPGDemo ServerUID==>1  ServerGuid==>d274e805-61db-43d4-a7da-eff30403d3d2
+2018-06-01 17:59:27,482 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=RPGDemo
+2018-06-01 18:01:19,755 [1] INFO  RPGServer.RPGApplication - 日志配置文件设置成功
+2018-06-01 18:01:19,770 [1] INFO  RPGServer.RPGApplication - 服务器运行中:ServerName==>RPGDemo ServerUID==>1  ServerGuid==>19c110ee-469f-4138-8317-b840fc1be83f
+2018-06-01 18:01:19,775 [1] INFO  RPGServer.RPGApplication - 初始化技能数据...
+2018-06-01 18:01:19,776 [1] INFO  RPGServer.Manager.BaseDataMgr - ===>PVP Load bindata:C:\RPG\deploy\bindata.xml
+2018-06-01 18:01:19,776 [1] ERROR Photon.SocketServer.ApplicationBase - System.IO.FileNotFoundException: 未能找到文件“C:\RPG\deploy\bindata.xml”。
+文件名:“C:\RPG\deploy\bindata.xml”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   在 RPGServer.Manager.BaseDataMgr.InitBaseConfigData() 位置 C:\RPG\src-server\RPG\RPGServer\Manager\BaseDataMgr.cs:行号 36
+   在 RPGServer.RPGApplication.SetSkillData() 位置 C:\RPG\src-server\RPG\RPGServer\RPGApplication.cs:行号 106
+   在 RPGServer.RPGApplication.Setup() 位置 C:\RPG\src-server\RPG\RPGServer\RPGApplication.cs:行号 74
+   在 Photon.SocketServer.ApplicationBase.PhotonHostRuntimeInterfaces.IPhotonControl.OnPhotonRunning() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\ApplicationBase.cs:行号 1171
+2018-06-01 18:01:19,785 [1] INFO  RPGServer.RPGApplication - ServerName==>RPGDemo ServerUID==>1  ServerGuid==>19c110ee-469f-4138-8317-b840fc1be83f
+2018-06-01 18:01:19,785 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=RPGDemo
+2018-06-01 18:01:19,791 [1] INFO  RPGServer.RPGApplication - 服务器关闭:ServerName==>RPGDemo ServerUID==>1  ServerGuid==>19c110ee-469f-4138-8317-b840fc1be83f
+2018-06-01 18:01:19,791 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=RPGDemo
+2018-06-01 18:08:48,906 [1] INFO  RPGServer.RPGApplication - 日志配置文件设置成功
+2018-06-01 18:08:48,922 [1] INFO  RPGServer.RPGApplication - 服务器运行中:ServerName==>RPGDemo ServerUID==>1  ServerGuid==>8444f887-1250-4ea4-80db-fffa94aea242
+2018-06-01 18:08:48,926 [1] INFO  RPGServer.RPGApplication - 初始化技能数据...
+2018-06-01 18:08:48,927 [1] INFO  RPGServer.Manager.BaseDataMgr - ===>PVP Load bindata:C:\RPG\deploy\bindata.xml
+2018-06-01 18:08:49,568 [1] INFO  RPGServer.RPGApplication - 技能数据初始化完成 time:00:00:00.6410367
+2018-06-01 18:08:49,568 [1] INFO  RPGServer.RPGApplication - 启动线程
+2018-06-01 18:08:49,568 [1] INFO  RPGServer.RPGApplication - 预热协议
+2018-06-01 18:08:49,569 [1] INFO  RPGServer.RPGApplication - ManagedThreadId ==> 1
+2018-06-01 18:08:49,569 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=RPGDemo; AppPath=C:\RPG\deploy\RPGServer, Type=RPGServer.RPGApplication 
+2018-06-01 18:11:30,572 [16] INFO  RPGServer.RPGApplication - ServerName==>RPGDemo ServerUID==>1  ServerGuid==>8444f887-1250-4ea4-80db-fffa94aea242
+2018-06-01 18:11:30,572 [16] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=RPGDemo
+2018-06-01 18:11:30,574 [16] INFO  RPGServer.RPGApplication - 服务器关闭:ServerName==>RPGDemo ServerUID==>1  ServerGuid==>8444f887-1250-4ea4-80db-fffa94aea242
+2018-06-01 18:11:30,574 [16] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=RPGDemo
+2018-06-01 18:11:34,204 [1] INFO  RPGServer.RPGApplication - ServerName==>RPGDemo ServerUID==>1  ServerGuid==>41795745-1fcf-4dec-a5b6-4590da9f670b
+2018-06-01 18:11:34,217 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=RPGDemo
+2018-06-01 18:11:34,224 [1] INFO  RPGServer.RPGApplication - 服务器关闭:ServerName==>RPGDemo ServerUID==>1  ServerGuid==>41795745-1fcf-4dec-a5b6-4590da9f670b
+2018-06-01 18:11:34,224 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=RPGDemo
+2018-06-01 18:11:40,413 [1] INFO  RPGServer.RPGApplication - 日志配置文件设置成功
+2018-06-01 18:11:40,427 [1] INFO  RPGServer.RPGApplication - 服务器运行中:ServerName==>RPGDemo ServerUID==>1  ServerGuid==>ac6158d7-0821-4a7f-8e05-e8e48fe0980f
+2018-06-01 18:11:40,431 [1] INFO  RPGServer.RPGApplication - 初始化技能数据...
+2018-06-01 18:11:40,432 [1] INFO  RPGServer.Manager.BaseDataMgr - ===>PVP Load bindata:C:\RPG\deploy\bindata.xml
+2018-06-01 18:11:40,435 [1] INFO  RPGServer.Manager.BaseDataMgr - ===>基础数据长度:4240KB
+2018-06-01 18:11:40,969 [1] INFO  RPGServer.Manager.BaseDataMgr - ===>基础数据初始化【OK】
+2018-06-01 18:11:40,969 [1] INFO  RPGServer.RPGApplication - 技能数据初始化完成 time:00:00:00.5380308
+2018-06-01 18:11:40,969 [1] INFO  RPGServer.RPGApplication - 启动线程
+2018-06-01 18:11:40,969 [1] INFO  RPGServer.RPGApplication - 预热协议
+2018-06-01 18:11:40,969 [1] INFO  RPGServer.RPGApplication - ManagedThreadId ==> 1
+2018-06-01 18:11:40,970 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=RPGDemo; AppPath=C:\RPG\deploy\RPGServer, Type=RPGServer.RPGApplication 
+2018-06-01 18:12:53,121 [1] INFO  RPGServer.RPGApplication - ServerName==>RPGDemo ServerUID==>1  ServerGuid==>ac6158d7-0821-4a7f-8e05-e8e48fe0980f
+2018-06-01 18:12:53,122 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=RPGDemo
+2018-06-01 18:12:53,132 [1] INFO  RPGServer.RPGApplication - 服务器关闭:ServerName==>RPGDemo ServerUID==>1  ServerGuid==>ac6158d7-0821-4a7f-8e05-e8e48fe0980f
+2018-06-01 18:12:53,132 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=RPGDemo
+2018-06-01 18:12:58,707 [1] INFO  RPGServer.RPGApplication - 日志配置文件设置成功
+2018-06-01 18:12:58,721 [1] INFO  RPGServer.RPGApplication - 服务器运行中:ServerName==>RPGDemo ServerUID==>1  ServerGuid==>251c79c5-62a6-495c-94d3-486514b9197d
+2018-06-01 18:12:58,725 [1] INFO  RPGServer.RPGApplication - 初始化技能数据...
+2018-06-01 18:12:58,726 [1] INFO  RPGServer.Manager.BaseDataMgr - ===>PVP Load bindata:C:\RPG\deploy\bindata.xml
+2018-06-01 18:12:58,726 [1] ERROR Photon.SocketServer.ApplicationBase - System.IO.FileNotFoundException: 未能找到文件“C:\RPG\deploy\bindata.xml”。
+文件名:“C:\RPG\deploy\bindata.xml”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   在 RPGServer.Manager.BaseDataMgr.InitBaseConfigData() 位置 C:\RPG\src-server\RPG\RPGServer\Manager\BaseDataMgr.cs:行号 36
+   在 RPGServer.RPGApplication.SetSkillData() 位置 C:\RPG\src-server\RPG\RPGServer\RPGApplication.cs:行号 106
+   在 RPGServer.RPGApplication.Setup() 位置 C:\RPG\src-server\RPG\RPGServer\RPGApplication.cs:行号 74
+   在 Photon.SocketServer.ApplicationBase.PhotonHostRuntimeInterfaces.IPhotonControl.OnPhotonRunning() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\ApplicationBase.cs:行号 1171
+2018-06-01 18:12:58,735 [1] INFO  RPGServer.RPGApplication - ServerName==>RPGDemo ServerUID==>1  ServerGuid==>251c79c5-62a6-495c-94d3-486514b9197d
+2018-06-01 18:12:58,735 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=RPGDemo
+2018-06-01 18:12:58,741 [1] INFO  RPGServer.RPGApplication - 服务器关闭:ServerName==>RPGDemo ServerUID==>1  ServerGuid==>251c79c5-62a6-495c-94d3-486514b9197d
+2018-06-01 18:12:58,741 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=RPGDemo

@@ -1,0 +1,46 @@
+4772: 18:54:38.102 - ---
+4772: 18:54:38.102 - Service: "Photon Socket Server" starting
+4772: 18:54:38.102 - Config File: C:\Users\mushijushi\Desktop\qiusuo\Qiusuo_Server\RPG\src-server\RPG\RPGServer\RPGDemo.config
+4772: 18:54:38.104 - Will produce at most: 10 crash dumps
+4772: 18:54:38.104 - 
+4772: 18:54:38.104 - ERROR: ***************************************************************
+4772: 18:54:38.104 - ERROR: /config: RPGDemo.config
+4772: 18:54:38.104 - ERROR: Can't find configuration file: "C:\Users\mushijushi\Desktop\qiusuo\Qiusuo_Server\RPG\src-server\RPG\RPGServer\RPGDemo.config".
+4772: 18:54:38.104 - ERROR:  
+4772: 18:54:38.104 - ERROR: Working directory: C:\Users\mushijushi\Desktop\qiusuo\Qiusuo_Server\RPG\src-server\RPG\RPGServer
+4772: 18:54:38.104 - ERROR: ***************************************************************
+4772: 18:54:38.104 - 
+4772: 18:54:38.104 - 
+4772: 18:54:38.104 - ERROR: ***************************************************************
+4772: 18:54:38.104 - ERROR: /config: RPGDemo.config
+Can't find configuration file: "C:\Users\mushijushi\Desktop\qiusuo\Qiusuo_Server\RPG\src-server\RPG\RPGServer\RPGDemo.config".
+ 
+Working directory: C:\Users\mushijushi\Desktop\qiusuo\Qiusuo_Server\RPG\src-server\RPG\RPGServer
+4772: 18:54:38.104 - ERROR: ***************************************************************
+4772: 18:54:38.104 - 
+4772: 18:54:38.104 - MessageBox: Photon Socket Server: RPGInstance - 4.0.28.2962
+
+/config: RPGDemo.config
+Can't find configuration file: "C:\Users\mushijushi\Desktop\qiusuo\Qiusuo_Server\RPG\src-server\RPG\RPGServer\RPGDemo.config".
+ 
+Working directory: C:\Users\mushijushi\Desktop\qiusuo\Qiusuo_Server\RPG\src-server\RPG\RPGServer
+
+Usage: PhotonSocketServer.exe  Followed by the following command line options.
+  /help		Display this list.
+  /noMessages	Must be first. Do not display status messages.
+  /install name	Installs an instance of the service named 'name'.
+  /installCounters	Installs performance counters for this service.
+  /remove name	Removes the instance of the service named 'name'.
+  /removeCounters	Removes performance counters for this service.
+  /run name   	Runs the service as a normal process for debugging.
+  /stop         	Request all instances of Photon to shutdown and exit.
+  /stop1 name	Request instance 'name' of Photon shutdown and exit.
+  /configPath path	Use the supplied path to locate the config file.
+  /config file	Use the supplied config file.
+
+Note that /config and /configFile can be used with /install and /run
+
+Note that only /noMessages can be combined with all other command line options.
+
+4772: 18:56:08.199 - Service shutting down: can't find configuration file. Errorcode: 102
+4772: 18:56:08.210 - Service shut down complete
